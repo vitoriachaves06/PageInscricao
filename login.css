@@ -1,0 +1,59 @@
+body{
+    background-image: url(imagens/Fundo.jpg);
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    height: 300px;
+    width: 950;
+}
+
+
+.Tela{
+    background-color: aquamarine;
+    color: black;
+    width: 400px;
+    height: 400px;
+    margin: 350px 0 0 580;
+    padding-top: 70px;
+    text-align: center;
+    border-radius: 20px;
+   
+} 
+
+.Tela input{
+    display: block;
+    margin: 5px 15px 15px 52px; 
+    width: 70%;
+    padding: 5px;
+    border-radius: 20px; 
+}
+
+.Tela label{
+    display: block;  
+    padding: 20px 20px 10px 15px;
+    font-size: 15px;
+    color:black;                                
+    font-family: 'Roboto', sans-serif;
+  
+}
+.Tela button{
+    display: flex;
+    margin: 10px 0 0 180px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    padding: 5px;
+    border-radius:5px;
+    background-color: white;
+}
+
+.link{
+    color: blue;
+    margin: 40px;
+    
+    
+}
+
+
+
+
